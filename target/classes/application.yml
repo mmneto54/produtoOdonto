@@ -1,0 +1,3 @@
+produto-odonto:
+  endpoint: https://api.us.apiconnect.ibmcloud.com/seguros-unimed/hml/v1/
+  ibmClientId: 7ed88775-2518-44b1-8e3e-77a0d59b6bd8

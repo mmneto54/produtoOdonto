@@ -1,0 +1,13 @@
+package br.com.segurosunimed.produto.odonto.dto;
+
+import lombok.Data;
+
+@Data
+
+public class StatusMensagemResDTO {
+
+  private String descricao = null;
+
+  private String detalhe = null;
+
+}
